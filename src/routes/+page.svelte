@@ -29,12 +29,11 @@
         }
     }
     });
-
-    
-
-
 </script>
 
+<head>
+  <title>Aditya Guru</title>
+</head>
 <section>
       <div class="content">
         <div class="info">
